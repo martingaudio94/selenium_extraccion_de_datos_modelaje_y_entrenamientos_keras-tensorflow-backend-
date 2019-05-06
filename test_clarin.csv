@@ -1,5 +1,25 @@
-Inmuebles,"Préstamos, Hípotecas y Otros(176)","Campos, Chacras(136)",Galpones y Depósitos(110),Negocios y Fondos de Comercio(109)
-Automotores,Repuestos y Accesorios para Autos. Sistemas de Seguridad(5),"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)",Autos de Colección(2),"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(1)"
-Empleos,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(76)",Profesionales y Ejecutivos(72),"Enseñanza, Capacitación, Cursos y Docentes(27)","Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
-Servicios,Servicios Automotores y Choferes(39),Negocios y Socios(34),Salud(20),Legales(17)
-Mix,Sex shops(12),"Ofertas, Trueques y Permutas(9)",Indumentaria y Accesorios(6),"Máquinas de coser, overlock y de tejer(5)"
+Inmuebles,Inmuebles
+Inmuebles,"Préstamos, Hípotecas y Otros(175)"
+Inmuebles,"Campos, Chacras(162)"
+Inmuebles,Negocios y Fondos de Comercio(114)
+Inmuebles,Galpones y Depósitos(108)
+Automotores,Automotores
+Automotores,"Transporte de Carga, Camiones, Acoplados, Colectivos, Ambulancias(5)"
+Automotores,Repuestos y Accesorios para Autos. Sistemas de Seguridad(4)
+Automotores,Autos de Colección(2)
+Automotores,"Náutica, Aviación, Casas Rodantes, Motorhomes. Repuestos y Accesorios(2)"
+Empleos,Empleos
+Empleos,Profesionales y Ejecutivos(90)
+Empleos,"Empleados, Vendedores, Ejecutivos de Cuentas, Viajantes, Corredores, Repositores(83)"
+Empleos,"Enseñanza, Capacitación, Cursos y Docentes(32)"
+Empleos,"Electrónicos. Comunicaciones, Mecánicos, Químicos. Otros(25)"
+Servicios,Servicios
+Servicios,Servicios Automotores y Choferes(42)
+Servicios,Negocios y Socios(36)
+Servicios,Salud(21)
+Servicios,Legales(18)
+Mix,Mix
+Mix,Sex shops(13)
+Mix,"Ofertas, Trueques y Permutas(9)"
+Mix,Indumentaria y Accesorios(8)
+Mix,"Máquinas de coser, overlock y de tejer(5)"
